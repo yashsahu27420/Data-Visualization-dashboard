@@ -10,4 +10,4 @@
 7. Top 7 Loss-Making Products: Directing focused efforts to minimize losses.
 8. Year-on-Year Sales: Monitoring growth and recognizing seasonal trends.
 
-! https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true
+! (https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
