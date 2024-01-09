@@ -1,4 +1,4 @@
-#flipkart_Dashboard
+# flipkart_Dashboard
 ## The dashboard displayed a variety of Key Performance Indicators (KPIs), which included:
 1. Aggregate Sales: Depicted using bar graphs, this KPI enabled us to effectively monitor revenue trends.
 2. Overall Orders: Offering a quick overview of order volume, supporting efficient inventory management.
