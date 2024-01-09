@@ -8,3 +8,4 @@
 6. Top 7 Customers: Identifying and fostering relationships with key clients.
 7. Top 7 Loss-Making Products: Directing focused efforts to minimize losses.
 8. Year-on-Year Sales: Monitoring growth and recognizing seasonal trends.
+![flipkart_Dashboard Power-BI-dashboard](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/flipkart_Dashboard.png?raw=true)
