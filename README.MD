@@ -13,9 +13,9 @@
 
 
 ## The Power BI Dashboard offers comprehensive insights through five report pages:
-[COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
-
-[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(1).png)
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(1).png?raw=true)
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(2).png?raw=true)[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(3).png?raw=true)
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(4).png?raw=true)
 
 1. **Explore:**
    - Conducts Exploratory Data Analysis (EDA).
