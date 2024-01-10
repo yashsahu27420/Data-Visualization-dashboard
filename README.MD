@@ -39,5 +39,5 @@
 ## COMMERCE SALES DASHBOARD
 
 ![COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
-## Employee data Tableau Dashboard 
+## Employee Analysis Tableau Dashboard 
 ![employee data Tableau DASHBOARD](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Visualized%20employee%20data%20on%20Tableau,%20enabling%20insightful%20workforce%20analytics%20for%20strategic%20decision-making%20and%20organizational%20efficiency.png?raw=true)
