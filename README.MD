@@ -13,14 +13,14 @@
 
 
 ## The Power BI Dashboard offers comprehensive insights through five report pages:
-[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(1).png?raw=true)
-[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(2).png?raw=true)[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(3).png?raw=true)
+
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(3).png?raw=true)
 [Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(4).png?raw=true)
 
 1. **Explore:**
    - Conducts Exploratory Data Analysis (EDA).
    - Visuals aid in understanding the dataset.
-
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(1).png?raw=true)
 2. **Basic Analysis:**
    - Provides Level 1 analysis, focusing on fundamental factors impacting salary.
 
@@ -29,10 +29,10 @@
 
 4. **More Analysis:**
    - Delves into deeper analysis, visually representing factors influencing the expected salary of a data specialist.
-
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(2).png?raw=true)
 5. **Complex Analysis:**
    - Evaluate the significance of skills (Python, Excel, R, etc.) for data engineers, emphasizing their impact on expected salary.
-
+[Remuneration Overview Dashboard ](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(4).png?raw=true)
 ## COMMERCE SALES DASHBOARD
 
 ![COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
