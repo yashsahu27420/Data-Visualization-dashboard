@@ -34,7 +34,7 @@
 5. **Complex Analysis:**
    - Evaluate the significance of skills (Python, Excel, R, etc.) for data engineers, emphasizing their impact on expected salary.
 
-!(https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(4).png?raw=true)
+![Skill Pay Analysis](https://github.com/yashsahu27420/Data-Visualization-dashboard/blob/main/Remuneration%20Overview%20Dashboard%20(4).png?raw=true)
 
 ## COMMERCE SALES DASHBOARD
 
