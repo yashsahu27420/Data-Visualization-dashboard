@@ -10,12 +10,15 @@
 7. Top 7 Loss-Making Products: Directing focused efforts to minimize losses.
 8. Year-on-Year Sales: Monitoring growth and recognizing seasonal trends.
 
-![COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
+
 
 ## The Power BI Dashboard offers comprehensive insights through five report pages:
+[COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
 
-The Power BI Dashboard offers comprehensive insights through five report pages:
-
+(https://github.com/yashsahu27420/PWAssignment/blob/main/Remuneration%20Overview%20Dashboard%20(1).png)
+(https://github.com/yashsahu27420/PWAssignment/blob/main/Remuneration%20Overview%20Dashboard%20(2).png)
+(https://github.com/yashsahu27420/PWAssignment/blob/main/Remuneration%20Overview%20Dashboard%20(3).png)
+(https://github.com/yashsahu27420/PWAssignment/blob/main/Remuneration%20Overview%20Dashboard%20(4).png)
 1. **Explore:**
    - Conducts Exploratory Data Analysis (EDA).
    - Visuals aid in understanding the dataset.
@@ -31,3 +34,7 @@ The Power BI Dashboard offers comprehensive insights through five report pages:
 
 5. **Complex Analysis:**
    - Evaluate the significance of skills (Python, Excel, R, etc.) for data engineers, emphasizing their impact on expected salary.
+
+## COMMERCE SALES DASHBOARD
+
+![COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
