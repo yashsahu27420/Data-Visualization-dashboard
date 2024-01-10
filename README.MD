@@ -11,3 +11,23 @@
 8. Year-on-Year Sales: Monitoring growth and recognizing seasonal trends.
 
 ![COMMERCE_SALES_DASHBOARD](https://github.com/yashsahu27420/Power-BI-dashboard/blob/main/COMMERCE%20SALES%20DASHBOARD.png?raw=true)
+
+## The Power BI Dashboard offers comprehensive insights through five report pages:
+
+The Power BI Dashboard offers comprehensive insights through five report pages:
+
+1. **Explore:**
+   - Conducts Exploratory Data Analysis (EDA).
+   - Visuals aid in understanding the dataset.
+
+2. **Basic Analysis:**
+   - Provides Level 1 analysis, focusing on fundamental factors impacting salary.
+
+3. **Drill:**
+   - Illustrates skill ratios, showcasing the prevalence of skills like Python or Excel in the dataset.
+
+4. **More Analysis:**
+   - Delves into deeper analysis, visually representing factors influencing the expected salary of a data specialist.
+
+5. **Complex Analysis:**
+   - Evaluate the significance of skills (Python, Excel, R, etc.) for data engineers, emphasizing their impact on expected salary.
